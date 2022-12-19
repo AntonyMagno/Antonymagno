@@ -1,4 +1,4 @@
-***Oi, eu sou Antony
+*Oi, eu sou Antony
 
 -👨‍💻 estou estudanto javascript <br>
 -✉️ (contate-me no email: antonymagnoliveira@hotmail.com) <br>
